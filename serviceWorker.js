@@ -20,6 +20,7 @@ var files = [
     'https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s256/K-A-Logo.png.png',
     'https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s512/K-A-Logo.png.png',
     "https://kasworld-aero.blogspot.com",
+    "https://kasworld-aero.blogspot.com/p/app-airbus-a320-fuel-clc.html",
     "https://use.fontawesome.com/releases/v5.2.0/css/all.css"
 ];
 
