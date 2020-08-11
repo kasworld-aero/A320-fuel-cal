@@ -1,6 +1,6 @@
 {
-	"name": "Kasworld-Aero ",
-	"short_name": "KASWORLD",
+	"name": "A320 Fuel Calc",
+	"short_name": "Fuel CLC",
 	"description": "Kasworld-Aero Aviation Updates and Flight Informatins",
 	"start_url": "./aero.html?ref=home",
 	"display": "standalone",
